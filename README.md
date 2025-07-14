@@ -67,7 +67,7 @@ This project presents an interactive Power BI dashboard based on responses from 
 # How to Use
 
 1. Clone or download this repository
-2. Open `Data_Professionals_Dashboard.pbix` in Power BI Desktop
+2. Open Data_Professionals_Dashboard.pbix in Power BI Desktop
 3. Use slicers and visuals to explore career trends and workforce metrics
 4. Share insights or customize the dashboard for presentations and decision-making
 
