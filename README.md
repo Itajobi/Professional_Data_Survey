@@ -1,7 +1,3 @@
-Great! Based on your detailed content, here's a professional and cleanly drafted `README.md` for your **Professional Data Survey Analysis Report** built in **Power BI**. It's structured, GitHub-ready, and showcases your analysis, process, and insights clearly:
-
----
-
 # Professional Data Survey Analysis – Power BI Project
 
 # Overview
