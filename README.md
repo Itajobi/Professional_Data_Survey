@@ -73,6 +73,6 @@ This project presents an interactive Power BI dashboard based on responses from 
 
 # Author
 
-Olanireti
+Olanireti Itajobi
 
 
